@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468256134139",
+    "project_id": "shari-test",
+    "storage_bucket": "shari-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468256134139:android:0dc6df5c07b5b617deb15e",
+        "android_client_info": {
+          "package_name": "com.example.shari_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468256134139-admr3vb6hk2likaahei64apjd1mas0mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIHJZUnwZ0PUgkkZy0Gi-Cq8uXuBaMk1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468256134139-admr3vb6hk2likaahei64apjd1mas0mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
